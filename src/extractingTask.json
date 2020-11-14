@@ -1,0 +1,17 @@
+{
+  "originalFile": {
+    "s3Key": "xxx",
+    "s3Bucket": "yyy",
+    "s3Region": "zzz"
+  },
+  "parsedFile": {
+    "s3Key": "xxx",
+    "s3Bucket": "yyy",
+    "s3Region": "zzz"
+  },
+  "title": "2019-finance-report",
+  "secCode": "000001",
+  "secName": "bankofxxx",
+  "categoryCode": "1",
+  "projectId": "2991"
+}
